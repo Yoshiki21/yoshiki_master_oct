@@ -12,9 +12,6 @@
  <contents>
   <behaviorContent path="hoo">
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="nodding">
@@ -39,9 +36,6 @@
   </behaviorContent>
   <behaviorContent path="unun">
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="naruhodo">
@@ -154,9 +148,6 @@
   </behaviorContent>
   <behaviorContent path="nodding_double2_diagonal">
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="naruhodo_diagonal">
@@ -224,10 +215,7 @@
    <permissions/>
   </behaviorContent>
   <behaviorContent path="sit_down">
-   <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
+   <nature>solitary</nature>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="lean_sit">
