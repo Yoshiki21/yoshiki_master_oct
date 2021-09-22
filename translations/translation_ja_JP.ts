@@ -230,10 +230,14 @@
     <context>
         <name>un/behavior.xar:/Animated Say</name>
         <message>
-            <location filename="un/behavior.xar" line="0"/>
             <source>、っっんん</source>
             <comment>Text</comment>
-            <translation type="unfinished">、っっんん</translation>
+            <translation type="obsolete">、っっんん</translation>
+        </message>
+        <message>
+            <source>っっんん</source>
+            <comment>Text</comment>
+            <translation type="obsolete">っっんん</translation>
         </message>
     </context>
     <context>
@@ -260,6 +264,16 @@
             <source>、っっんん</source>
             <comment>Text</comment>
             <translation type="obsolete">、っっんん</translation>
+        </message>
+        <message>
+            <source>&quot;こんにちは&quot;</source>
+            <comment>Text</comment>
+            <translation type="obsolete">&quot;こんにちは&quot;</translation>
+        </message>
+        <message>
+            <source>str(こんにちは)</source>
+            <comment>Text</comment>
+            <translation type="obsolete">str(こんにちは)</translation>
         </message>
     </context>
     <context>
