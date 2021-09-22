@@ -237,6 +237,32 @@
         </message>
     </context>
     <context>
+        <name>un/behavior.xar:/Animated Say (1)</name>
+        <message>
+            <source>こんにちは</source>
+            <comment>Text</comment>
+            <translation type="vanished">こんにちは</translation>
+        </message>
+        <message>
+            <source>hello</source>
+            <comment>Text</comment>
+            <translation type="obsolete">hello</translation>
+        </message>
+    </context>
+    <context>
+        <name>un/behavior.xar:/Say</name>
+        <message>
+            <source>こんにちは</source>
+            <comment>Text</comment>
+            <translation type="vanished">こんにちは</translation>
+        </message>
+        <message>
+            <source>、っっんん</source>
+            <comment>Text</comment>
+            <translation type="obsolete">、っっんん</translation>
+        </message>
+    </context>
+    <context>
         <name>un_diagonal/behavior.xar:/Animated Say</name>
         <message>
             <location filename="un_diagonal/behavior.xar" line="0"/>

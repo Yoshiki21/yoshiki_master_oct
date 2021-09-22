@@ -67,8 +67,6 @@
     </Resources>
     <Topics />
     <IgnoredPaths>
-        <Path src="yoshiki_master_oct/translations/translation_ja_JP.ts" />
-        <Path src="yoshiki_master_oct/translations" />
         <Path src="translations" />
     </IgnoredPaths>
     <Translations auto-fill="ja_JP">
