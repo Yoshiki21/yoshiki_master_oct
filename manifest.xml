@@ -10,216 +10,114 @@
   <language>ja_JP</language>
  </descriptionLanguages>
  <contents>
-  <behaviorContent path="hoo">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="nodding">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="nodding_double">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="nodding_double_fast">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="nodding_fast">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="hee">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="unun">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="naruhodo">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="sounanndesune">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="nodding_double2">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="StandInit">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="listening_style">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="adoptive">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="nodding2">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="adopting2">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="start_talking">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="unun2">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="un">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="eye_contact">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="back_voice">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="hoo_neutral">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="hee_neutral">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="naruhodo_neutral">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="unun_neutral">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="sounanndesune_neutral">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="un_neutral">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="unun2_neutral">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
   <behaviorContent path="show">
    <nature>solitary</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="start_talking2">
+  <behaviorContent path="00_posture/00_sit_down">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="Stand">
+  <behaviorContent path="00_posture/01_lean_sit">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="nodding_double_fast_diagonal">
+  <behaviorContent path="00_posture/02_back_voice">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="nodding_double_diagonal">
+  <behaviorContent path="00_posture/03_eye_contact">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="unun_diagonal">
+  <behaviorContent path="01_aiduchi/00_un">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="unun2_diagonal">
+  <behaviorContent path="01_aiduchi/01_naruhodo">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="nodding_double2_diagonal">
+  <behaviorContent path="01_aiduchi/02_sounandesune">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="naruhodo_diagonal">
+  <behaviorContent path="01_aiduchi/03_naruhodo_sounandesune">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="nodding_diagonal">
+  <behaviorContent path="01_aiduchi/04_a_naruhodo">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="sounanndesune_diagonal">
+  <behaviorContent path="02_motion/00_nodding_diagonal">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="start_talking_diagonal">
+  <behaviorContent path="02_motion/01_start_talking_diagonal">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="Stand_diagonal">
+  <behaviorContent path="01_aiduchi/05_arigatogozaimasu">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="listening_style_diagonal">
+  <behaviorContent path="01_aiduchi/06_a_hai">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="un_diagonal">
+  <behaviorContent path="01_aiduchi/07_soudesune">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="listening_style_nod_diagonal">
+  <behaviorContent path="01_aiduchi/08_zyaa">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="naruhodo_diagonal2">
+  <behaviorContent path="03_aiduchi_np/00_un">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="Stand_diagonal2">
+  <behaviorContent path="03_aiduchi_np/01_naruhodo">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="start_talking_diagonal2">
+  <behaviorContent path="03_aiduchi_np/02_sounandesune">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="mousukoshi">
+  <behaviorContent path="03_aiduchi_np/03_naruhodo_sounandesune">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="naruhodo_mousukoshi_diagonal">
+  <behaviorContent path="03_aiduchi_np/04_a_naruhodo">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="hoo_diagonal">
+  <behaviorContent path="03_aiduchi_np/05_arigatogozaimasu">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="hee_daigonal">
+  <behaviorContent path="03_aiduchi_np/06_a_hai">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="nodding2_diagonal">
+  <behaviorContent path="03_aiduchi_np/07_soudesune">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="sit_down">
-   <nature>solitary</nature>
+  <behaviorContent path="03_aiduchi_np/08_zyaa">
+   <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="lean_sit">
+  <behaviorContent path="00_posture/04_lean_sit_neck">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
  </contents>
