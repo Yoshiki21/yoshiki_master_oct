@@ -59,6 +59,9 @@
   </behaviorContent>
   <behaviorContent path="02_motion/01_start_talking_diagonal">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="01_aiduchi/05_arigatogozaimasu">
@@ -114,6 +117,31 @@
    <permissions/>
   </behaviorContent>
   <behaviorContent path="00_posture/04_lean_sit_neck">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="01_aiduchi/09_a_ano">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="01_aiduchi/10_ha_arigatougozaimasu">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="01_aiduchi/11_naruhodo_mousukoshi">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="01_aiduchi/12_soudattandesune">
    <nature>interactive</nature>
    <triggerSentences/>
    <loadingResponses/>

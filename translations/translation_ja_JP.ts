@@ -211,6 +211,14 @@
         </message>
     </context>
     <context>
+        <name>test/behavior.xar:/Get Localized Text</name>
+        <message>
+            <source>こんにちは</source>
+            <comment>Text</comment>
+            <translation type="vanished">こんにちは</translation>
+        </message>
+    </context>
+    <context>
         <name>un/behavior.xar:/Animated Say</name>
         <message>
             <source>、っっんん</source>

@@ -28,6 +28,10 @@
         <BehaviorDescription name="behavior" src="03_aiduchi_np/07_soudesune" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="03_aiduchi_np/08_zyaa" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="00_posture/04_lean_sit_neck" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="01_aiduchi/09_a_ano" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="01_aiduchi/10_ha_arigatougozaimasu" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="01_aiduchi/11_naruhodo_mousukoshi" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="01_aiduchi/12_soudattandesune" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
