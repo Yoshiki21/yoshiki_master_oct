@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package version="0.0.0" uuid="yoshiki_master_oct">
+<package uuid="yoshiki_master_oct" version="0.0.0">
  <names>
   <name lang="en_US">yoshiki_master</name>
  </names>
@@ -12,6 +12,9 @@
  <contents>
   <behaviorContent path="show">
    <nature>solitary</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="00_posture/00_sit_down">
@@ -51,10 +54,6 @@
    <permissions/>
   </behaviorContent>
   <behaviorContent path="02_motion/00_nodding_diagonal">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="02_motion/01_start_talking_diagonal">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
@@ -128,6 +127,29 @@
   </behaviorContent>
   <behaviorContent path="01_aiduchi/12_soudattandesune">
    <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="00_posture/05_sit_2">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="00_posture/06_lean_sit_2">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="02_motion/01_start_talking_diagonal_positive">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="02_motion/02_start_talking_diagonal_neutral">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="01_aiduchi/13_mousukoshi">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
  </contents>

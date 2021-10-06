@@ -13,7 +13,6 @@
         <BehaviorDescription name="behavior" src="01_aiduchi/03_naruhodo_sounandesune" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="01_aiduchi/04_a_naruhodo" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="02_motion/00_nodding_diagonal" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="02_motion/01_start_talking_diagonal" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="01_aiduchi/05_arigatogozaimasu" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="01_aiduchi/06_a_hai" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="01_aiduchi/07_soudesune" xar="behavior.xar" />
@@ -32,6 +31,11 @@
         <BehaviorDescription name="behavior" src="01_aiduchi/10_ha_arigatougozaimasu" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="01_aiduchi/11_naruhodo_mousukoshi" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="01_aiduchi/12_soudattandesune" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="00_posture/05_sit_2" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="00_posture/06_lean_sit_2" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="02_motion/01_start_talking_diagonal_positive" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="02_motion/02_start_talking_diagonal_neutral" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="01_aiduchi/13_mousukoshi" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
