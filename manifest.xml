@@ -65,14 +65,6 @@
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="01_aiduchi/07_soudesune">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="01_aiduchi/08_zyaa">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
   <behaviorContent path="03_aiduchi_np/00_un">
    <nature>interactive</nature>
    <permissions/>
@@ -113,14 +105,6 @@
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="01_aiduchi/09_a_ano">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="01_aiduchi/10_ha_arigatougozaimasu">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
   <behaviorContent path="01_aiduchi/11_naruhodo_mousukoshi">
    <nature>interactive</nature>
    <permissions/>
@@ -146,6 +130,46 @@
    <permissions/>
   </behaviorContent>
   <behaviorContent path="01_aiduchi/13_mousukoshi">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="01_aiduchi/07_shiranakkatadesu">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="01_aiduchi/08_sutekidesune">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="01_aiduchi/09_sugokuiidesune">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="test">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="02_motion/04_start_talking_neutral2">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="02_motion/05_start_talking_positive2">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="02_motion/06_start_talking_positive3">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="02_motion/07_start_talking_positives">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="02_motion/08_start_talking_neutrals">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="01_aiduchi/10_naruhodo_gaze_averstion">
    <nature>interactive</nature>
    <triggerSentences/>
    <loadingResponses/>
