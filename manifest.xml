@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="yoshiki_master_oct" version="0.0.0">
+<package version="0.0.0" uuid="yoshiki_master_oct">
  <names>
   <name lang="en_US">yoshiki_master</name>
  </names>
@@ -170,6 +170,10 @@
    <permissions/>
   </behaviorContent>
   <behaviorContent path="01_aiduchi/10_naruhodo_gaze_averstion">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="02_motion/09_moving_to_positive">
    <nature>interactive</nature>
    <triggerSentences/>
    <loadingResponses/>

@@ -42,6 +42,7 @@
         <BehaviorDescription name="behavior" src="02_motion/07_start_talking_positives" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="02_motion/08_start_talking_neutrals" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="01_aiduchi/10_naruhodo_gaze_averstion" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="02_motion/09_moving_to_positive" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
