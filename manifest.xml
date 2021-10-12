@@ -12,9 +12,6 @@
  <contents>
   <behaviorContent path="show">
    <nature>solitary</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="00_posture/00_sit_down">
@@ -175,9 +172,6 @@
   </behaviorContent>
   <behaviorContent path="02_motion/09_moving_to_positive">
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
  </contents>
